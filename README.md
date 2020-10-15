@@ -17,3 +17,10 @@ In order to run this application you have to install the correct dependencies, f
 
 ## Usage
 ![one test](./assets/walkthroughApp.gif)
+
+## Test 
+none
+
+## Questions 
+Any questions contact me at me at, 
+email: gabbymanzano98@gmail.com
